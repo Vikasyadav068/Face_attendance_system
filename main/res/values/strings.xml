@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Face Recognition Attendance System</string>
+    <string name="default_web_client_id">1234567890-abcdefghij.apps.googleusercontent.com</string>
+    <string name="cloud_name">dpov0vmpy</string>
+    <string name="api_key">664181953249871</string>
+    <string name="api_secret">Mny4Yn0iEE7vkzWr32Ma6homYYM</string>
+
+</resources>
