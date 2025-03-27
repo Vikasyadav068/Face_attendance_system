@@ -1,0 +1,1 @@
+This is Face Recognition Attendance Application where ML is used to detect face data of the user and then save it on the database along with date and time and could be able to fetch the data when required.
